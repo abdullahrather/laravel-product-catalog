@@ -1,6 +1,6 @@
 # Laravel Product Catalog
 
-An early-stage Laravel 10 product catalog. The authentication layer and the product data model are in place, and the catalog screens are the next step.
+An early-stage Laravel 12 product catalog. The authentication layer and the product data model are in place, and the catalog screens are the next step.
 
 ## What's built
 
@@ -15,11 +15,11 @@ The products page still uses the theme's sample layout. Listing, creating and ed
 
 ## Tech stack
 
-PHP 8.1+, Laravel 10, MySQL, Blade, AdminLTE 3, Bootstrap 4 and jQuery Validation.
+PHP 8.2+, Laravel 12, MySQL, Blade, AdminLTE 3, Bootstrap 4 and jQuery Validation.
 
 ## Getting started
 
-You need PHP 8.1 or newer, Composer and MySQL.
+You need PHP 8.2 or newer, Composer and MySQL.
 
 ```bash
 git clone https://github.com/abdullahrather/laravel-product-catalog.git
